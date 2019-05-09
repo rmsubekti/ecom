@@ -1,0 +1,1 @@
+insert into tbl_admin(username, password, nama, email) values ('admin', 'admin', 'admin', 'admin@su.com');
